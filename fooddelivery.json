@@ -1,0 +1,32 @@
+[
+  {
+    "restaurant_id": 1,
+    "item_name": "Margherita Pizza",
+    "price": 8.99
+  },
+  {
+    "restaurant_id": 1,
+    "item_name": "Pepperoni Pizza",
+    "price": 10.99
+  },
+  {
+    "restaurant_id": 2,
+    "item_name": "Salmon Roll",
+    "price": 12.99
+  },
+  {
+    "restaurant_id": 2,
+    "item_name": "Tuna Sushi",
+    "price": 14.99
+  },
+  {
+    "restaurant_id": 3,
+    "item_name": "Cheeseburger",
+    "price": 9.99
+  },
+  {
+    "restaurant_id": 3,
+    "item_name": "Veggie Burger",
+    "price": 8.49
+  }
+]
